@@ -5,7 +5,7 @@
 
 
 
-- 🔭 I’m currently working on **Dell Technologies**
+- 🔭 I’m currently working in **Dell Technologies**
 
 - 🌱 I’m currently learning **Django Rest Framework, FASTApi, Flask, JWT, Redis**
 
